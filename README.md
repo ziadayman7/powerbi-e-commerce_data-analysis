@@ -2,7 +2,7 @@
 Analyze e-commerce data and revenue performance across the world
 
 ## Dataset
-- [ecommerce_data.csv](dataset/ecommerce_data.csv)
+- [e-commerce_data.csv](dataset/ecommerce_data.csv)
 
 ## KPIs
 - Net Revenue
